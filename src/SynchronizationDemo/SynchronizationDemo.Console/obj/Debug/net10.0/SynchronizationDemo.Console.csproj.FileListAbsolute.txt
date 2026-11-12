@@ -18,3 +18,4 @@ C:\Users\giacomo.brizi\source\repos\Concurrent_Parallel_Programming-main\src\Syn
 C:\Users\giacomo.brizi\source\repos\Concurrent_Parallel_Programming-main\src\SynchronizationDemo\SynchronizationDemo.Console\obj\Debug\net10.0\SynchronizationDemo.Console.pdb
 C:\Users\giacomo.brizi\source\repos\Concurrent_Parallel_Programming-main\src\SynchronizationDemo\SynchronizationDemo.Console\obj\Debug\net10.0\SynchronizationDemo.Console.genruntimeconfig.cache
 C:\Users\giacomo.brizi\source\repos\Concurrent_Parallel_Programming-main\src\SynchronizationDemo\SynchronizationDemo.Console\obj\Debug\net10.0\ref\SynchronizationDemo.Console.dll
+C:\Users\giacomo.brizi\source\repos\Concurrent_Parallel_Programming-main\src\SynchronizationDemo\SynchronizationDemo.Console\obj\Debug\net10.0\SynchronizationDemo.Console.sourcelink.json
