@@ -1,7 +1,7 @@
 ﻿using SynchronizationDemo.Domain;
 
 var semaforo = new SemaphoreExperiment();
-
+var producerConsumer = new ProducerConsumerExperiment();
 bool termina = false;
 
 while (!termina)

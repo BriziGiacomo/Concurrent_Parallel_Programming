@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SynchronizationDemo.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8144a9e4f5e98e5fecbf3250648f99d508015eb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70427cdaa8d144a534b67c98f701c33b9678f6c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SynchronizationDemo.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SynchronizationDemo.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
